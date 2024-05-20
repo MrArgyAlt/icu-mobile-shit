@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"pro",
+			"peter",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"x-mouth",
+			"peter",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"the cheater",
+			"peter",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "That smart one",
+	"weekName": "week peter",
+	"freeplayColor": [
+		255,
+		255,
+		255
+	],
+	"hideStoryMode": false,
+	"weekBefore": "ncfn",
+	"startUnlocked": true
+}
