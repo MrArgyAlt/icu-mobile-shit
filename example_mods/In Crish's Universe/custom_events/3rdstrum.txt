@@ -1,0 +1,6 @@
+Value 1:
+
+True - Makes the 3rd Strumline appear.
+False - Hides the 3rd Strumline.
+
+fixed by kviks
