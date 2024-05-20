@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Basya Idle"
+		},
+		{
+			"offsets": [
+				90,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Basya Left"
+		},
+		{
+			"offsets": [
+				-41,
+				193
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Basya Up"
+		},
+		{
+			"offsets": [
+				29,
+				-64
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Basya Down"
+		},
+		{
+			"offsets": [
+				-110,
+				-27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Basya Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Basya_New_Night",
+	"position": [
+		-25,
+		40
+	],
+	"healthicon": "basya",
+	"flip_x": false,
+	"healthbar_colors": [
+		246,
+		228,
+		246
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

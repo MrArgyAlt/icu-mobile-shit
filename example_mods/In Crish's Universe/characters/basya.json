@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Basya Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				11
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Basya Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-41,
+				193
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Basya Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				-64
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Basya Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-110,
+				-27
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Basya Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Basya_New_Pidarasya_V2",
+	"position": [
+		-25,
+		40
+	],
+	"healthicon": "basya",
+	"flip_x": false,
+	"healthbar_colors": [
+		246,
+		228,
+		246
+	],
+	"camera_position": [
+		25,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

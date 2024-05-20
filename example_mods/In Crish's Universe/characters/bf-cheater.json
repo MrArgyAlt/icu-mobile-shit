@@ -1,0 +1,146 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-23,
+				-24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-32,
+				-65
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-127,
+				28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-49,
+				26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "hey"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				20
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "dmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-140,
+				20
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "rmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				11
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "lmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-120,
+				20
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "umiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				192
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "dead",
+			"indices": []
+		},
+		{
+			"offsets": [
+				28,
+				-31
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-130,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "right"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/BF_for_cheater",
+	"position": [
+		120,
+		370
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		50,
+		-120
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5,
+	"_editor_isPlayer": true
+}

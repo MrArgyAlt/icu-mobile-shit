@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				46,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "dddifperRight"
+		},
+		{
+			"offsets": [
+				0,
+				-161
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "dddifperdown"
+		},
+		{
+			"offsets": [
+				-6,
+				26
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "dddifperup"
+		},
+		{
+			"offsets": [
+				-110,
+				-25
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "dddifperleft"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "dddifperidle"
+		},
+		{
+			"offsets": [
+				15,
+				-3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "huh",
+			"loop": false,
+			"name": "dddifperangry"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "what",
+			"loop": false,
+			"name": "dddifperconfused"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Dad_Angry_Assets",
+	"position": [
+		60,
+		160
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.7
+}
